@@ -9,7 +9,7 @@ Construir um sistema capaz de reconhecer automaticamente 43 tipos de sinais de t
 ## Etapas do Projeto
 
 1. **Download do Dataset**
-   - Utiliza o [KaggleHub](https://github.com/kagglehub/kagglehub) para baixar o dataset: `meowmeowmeowmeowmeow/gtsrb-german-traffic-sign`.
+   - Utiliza o [KaggleHub]([https://github.com/kagglehub/kagglehub](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)) para baixar o dataset: `meowmeowmeowmeowmeow/gtsrb-german-traffic-sign`.
    - Estrutura esperada: pastas por classe dentro de `Train`.
 
 2. **Carregamento e Pré-processamento**
